@@ -1,0 +1,171 @@
+{
+	"info": {
+		"_postman_id": "c497fac2-835e-4448-b6bd-60f8c439327a",
+		"name": "openweathermap",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://api.openweathermap.org/data/2.5/find?lat=51.77&lon=55.1&units=metric&appid=b166aaec37c9bd75096c18c0bf24420d&cnt=15",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://api.openweathermap.org/data/2.5/find?lat=51.77&lon=55.1&units=metric&appid=b166aaec37c9bd75096c18c0bf24420d&cnt=15",
+					"protocol": "http",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"find"
+					],
+					"query": [
+						{
+							"key": "lat",
+							"value": "51.77"
+						},
+						{
+							"key": "lon",
+							"value": "55.1"
+						},
+						{
+							"key": "units",
+							"value": "metric"
+						},
+						{
+							"key": "appid",
+							"value": "b166aaec37c9bd75096c18c0bf24420d"
+						},
+						{
+							"key": "cnt",
+							"value": "15"
+						},
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				},
+				"description": "Weather near Orenburg\nCycle area"
+			},
+			"response": []
+		},
+		{
+			"name": "api.openweathermap.org/data/2.5/weather?zip=20001&appid=b166aaec37c9bd75096c18c0bf24420d&units=metric",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "api.openweathermap.org/data/2.5/weather?zip=20001&appid=b166aaec37c9bd75096c18c0bf24420d&units=metric",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"weather"
+					],
+					"query": [
+						{
+							"key": "zip",
+							"value": "20001"
+						},
+						{
+							"key": "appid",
+							"value": "b166aaec37c9bd75096c18c0bf24420d"
+						},
+						{
+							"key": "units",
+							"value": "metric"
+						}
+					]
+				},
+				"description": "Weather in Washington DC"
+			},
+			"response": []
+		},
+		{
+			"name": " http://api.openweathermap.org/data/2.5/box/city?bbox=52,48,56,54,10&appid=b166aaec37c9bd75096c18c0bf24420d",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://api.openweathermap.org/data/2.5/box/city?bbox=52,48,56,54,10&appid=b166aaec37c9bd75096c18c0bf24420d",
+					"protocol": "http",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"box",
+						"city"
+					],
+					"query": [
+						{
+							"key": "bbox",
+							"value": "52,48,56,54,10"
+						},
+						{
+							"key": "appid",
+							"value": "b166aaec37c9bd75096c18c0bf24420d"
+						},
+						{
+							"key": "zoom",
+							"value": "100",
+							"disabled": true
+						}
+					]
+				},
+				"description": "Weather near Orenburg\nRectangle area "
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "5dc3f7c6-5d88-4b9e-a61b-98911a5f3a86",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "92e35faf-b15b-44aa-aae5-1f7c94de1c7d",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
