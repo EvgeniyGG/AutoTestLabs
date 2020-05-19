@@ -1,0 +1,1177 @@
+{
+    "message": "accurate",
+    "cod": "200",
+    "count": 15,
+    "list": [
+        {
+            "id": 515003,
+            "name": "Orenburg",
+            "coord": {
+                "lat": 51.77,
+                "lon": 55.1
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893750,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 485700,
+            "name": "Svetlogorka",
+            "coord": {
+                "lat": 51.78,
+                "lon": 55.12
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893515,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 508311,
+            "name": "Podgorodnyaya Pokrovka",
+            "coord": {
+                "lat": 51.83,
+                "lon": 54.99
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893517,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 505376,
+            "name": "Prigorodnyy",
+            "coord": {
+                "lat": 51.77,
+                "lon": 55.27
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893516,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 538561,
+            "name": "Kushkul’",
+            "coord": {
+                "lat": 51.88,
+                "lon": 55.14
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893513,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 559730,
+            "name": "Gornyy",
+            "coord": {
+                "lat": 51.92,
+                "lon": 55.15
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893519,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 522312,
+            "name": "Nezhinka",
+            "coord": {
+                "lat": 51.77,
+                "lon": 55.37
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893512,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 484127,
+            "name": "Tatarskaya Kargala",
+            "coord": {
+                "lat": 51.95,
+                "lon": 55.17
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893515,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 520278,
+            "name": "Nizhnepavlovka",
+            "coord": {
+                "lat": 51.71,
+                "lon": 54.8
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893521,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 481244,
+            "name": "Trudovoye Pole",
+            "coord": {
+                "lat": 51.78,
+                "lon": 55.5
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893514,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 864018,
+            "name": "Krasnyy Kommunar",
+            "coord": {
+                "lat": 51.96,
+                "lon": 55.37
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893535,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 499342,
+            "name": "Sakmara",
+            "coord": {
+                "lat": 51.98,
+                "lon": 55.33
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893516,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 510934,
+            "name": "Urochishche Pervomayskoye",
+            "coord": {
+                "lat": 52.1,
+                "lon": 55.07
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893517,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 506187,
+            "name": "Portnov",
+            "coord": {
+                "lat": 52.27,
+                "lon": 54.93
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "dt": 1589893516,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 511291,
+            "name": "Perevolotskiy",
+            "coord": {
+                "lat": 51.88,
+                "lon": 54.19
+            },
+            "main": {
+                "temp": 11.69,
+                "feels_like": 6.12,
+                "temp_min": 11.69,
+                "temp_max": 11.69,
+                "pressure": 1003,
+                "humidity": 76,
+                "sea_level": 1003,
+                "grnd_level": 982
+            },
+            "dt": 1589893517,
+            "wind": {
+                "speed": 7.16,
+                "deg": 249
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": {
+                "1h": 0.86
+            },
+            "snow": null,
+            "clouds": {
+                "all": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "coord": {
+        "lon": -77.02,
+        "lat": 38.91
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 15.8,
+        "feels_like": 10.83,
+        "temp_min": 15,
+        "temp_max": 16.67,
+        "pressure": 1020,
+        "humidity": 63
+    },
+    "visibility": 16093,
+    "wind": {
+        "speed": 6.7,
+        "deg": 70
+    },
+    "clouds": {
+        "all": 90
+    },
+    "dt": 1589894290,
+    "sys": {
+        "type": 1,
+        "id": 3787,
+        "country": "US",
+        "sunrise": 1589881917,
+        "sunset": 1589933849
+    },
+    "timezone": -14400,
+    "id": 0,
+    "name": "Washington",
+    "cod": 200
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+            "id": 491019,
+            "dt": 1589893750,
+            "name": "Sol-Iletsk",
+            "coord": {
+                "Lon": 54.99,
+                "Lat": 51.16
+            },
+            "main": {
+                "temp": 13.07,
+                "feels_like": 6.67,
+                "temp_min": 13.07,
+                "temp_max": 13.07,
+                "pressure": 1004,
+                "sea_level": 1004,
+                "grnd_level": 988,
+                "humidity": 71
+            },
+            "wind": {
+                "speed": 8.46,
+                "deg": 247
+            },
+            "rain": {
+                "1h": 0.89
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 610613,
+            "dt": 1589893752,
+            "name": "Aqsay",
+            "coord": {
+                "Lon": 52.99,
+                "Lat": 51.17
+            },
+            "main": {
+                "temp": 12.17,
+                "feels_like": 5.7,
+                "temp_min": 12.17,
+                "temp_max": 12.17,
+                "pressure": 1004,
+                "sea_level": 1004,
+                "grnd_level": 997,
+                "humidity": 68
+            },
+            "wind": {
+                "speed": 8.06,
+                "deg": 289
+            },
+            "rain": {
+                "1h": 0.55
+            },
+            "snow": null,
+            "clouds": {
+                "today": 89
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 515003,
+            "dt": 1589893750,
+            "name": "Orenburg",
+            "coord": {
+                "Lon": 55.1,
+                "Lat": 51.77
+            },
+            "main": {
+                "temp": 13,
+                "feels_like": 9.55,
+                "temp_min": 13,
+                "temp_max": 13,
+                "pressure": 1003,
+                "humidity": 82
+            },
+            "visibility": 8000,
+            "wind": {
+                "speed": 5,
+                "deg": 160
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "today": 75
+            },
+            "weather": [
+                {
+                    "id": 520,
+                    "main": "Rain",
+                    "description": "light intensity shower rain",
+                    "icon": "09d"
+                }
+            ]
+        },
+        {
+            "id": 609655,
+            "dt": 1589893752,
+            "name": "Karagandy",
+            "coord": {
+                "Lon": 54.87,
+                "Lat": 50.07
+            },
+            "main": {
+                "temp": 12.11,
+                "feels_like": 7.54,
+                "temp_min": 12.11,
+                "temp_max": 12.11,
+                "pressure": 1005,
+                "sea_level": 1005,
+                "grnd_level": 989,
+                "humidity": 71
+            },
+            "wind": {
+                "speed": 5.54,
+                "deg": 248
+            },
+            "rain": {
+                "1h": 0.34
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 490554,
+            "dt": 1589893750,
+            "name": "Sorochinsk",
+            "coord": {
+                "Lon": 53.16,
+                "Lat": 52.43
+            },
+            "main": {
+                "temp": 11.52,
+                "feels_like": 5.5,
+                "temp_min": 11.52,
+                "temp_max": 11.52,
+                "pressure": 1003,
+                "sea_level": 1003,
+                "grnd_level": 991,
+                "humidity": 76
+            },
+            "wind": {
+                "speed": 7.75,
+                "deg": 248
+            },
+            "rain": {
+                "1h": 0.22
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 570427,
+            "dt": 1589893751,
+            "name": "Buzuluk",
+            "coord": {
+                "Lon": 52.26,
+                "Lat": 52.78
+            },
+            "main": {
+                "temp": 10.53,
+                "feels_like": 5.23,
+                "temp_min": 10.53,
+                "temp_max": 10.53,
+                "pressure": 1002,
+                "sea_level": 1002,
+                "grnd_level": 994,
+                "humidity": 82
+            },
+            "wind": {
+                "speed": 6.77,
+                "deg": 251
+            },
+            "rain": {
+                "1h": 0.3
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 539283,
+            "dt": 1589893751,
+            "name": "Kumertau",
+            "coord": {
+                "Lon": 55.78,
+                "Lat": 52.77
+            },
+            "main": {
+                "temp": 13.71,
+                "feels_like": 8.62,
+                "temp_min": 13.71,
+                "temp_max": 13.71,
+                "pressure": 1002,
+                "sea_level": 1002,
+                "grnd_level": 969,
+                "humidity": 63
+            },
+            "wind": {
+                "speed": 6.2,
+                "deg": 191
+            },
+            "rain": {
+                "1h": 0.53
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 527717,
+            "dt": 1589893751,
+            "name": "Meleuz",
+            "coord": {
+                "Lon": 55.92,
+                "Lat": 52.97
+            },
+            "main": {
+                "temp": 14.9,
+                "feels_like": 10.49,
+                "temp_min": 14.9,
+                "temp_max": 14.9,
+                "pressure": 1002,
+                "sea_level": 1002,
+                "grnd_level": 981,
+                "humidity": 61
+            },
+            "wind": {
+                "speed": 5.45,
+                "deg": 191
+            },
+            "rain": {
+                "1h": 0.45
+            },
+            "snow": null,
+            "clouds": {
+                "today": 86
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 499292,
+            "dt": 1589893750,
+            "name": "Salavat",
+            "coord": {
+                "Lon": 55.91,
+                "Lat": 53.38
+            },
+            "main": {
+                "temp": 14.87,
+                "feels_like": 11.25,
+                "temp_min": 14.87,
+                "temp_max": 14.87,
+                "pressure": 1001,
+                "sea_level": 1001,
+                "grnd_level": 983,
+                "humidity": 66
+            },
+            "wind": {
+                "speed": 4.71,
+                "deg": 189
+            },
+            "rain": {
+                "1h": 0.99
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 584471,
+            "dt": 1589893752,
+            "name": "Abdulino",
+            "coord": {
+                "Lon": 53.67,
+                "Lat": 53.7
+            },
+            "main": {
+                "temp": 14.43,
+                "feels_like": 9.46,
+                "temp_min": 14.43,
+                "temp_max": 14.43,
+                "pressure": 1001,
+                "sea_level": 1001,
+                "grnd_level": 975,
+                "humidity": 62
+            },
+            "wind": {
+                "speed": 6.18,
+                "deg": 179
+            },
+            "rain": {
+                "1h": 0.86
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 571159,
+            "dt": 1589893751,
+            "name": "Buguruslan",
+            "coord": {
+                "Lon": 52.44,
+                "Lat": 53.66
+            },
+            "main": {
+                "temp": 13.46,
+                "feels_like": 9.41,
+                "temp_min": 13.46,
+                "temp_max": 13.46,
+                "pressure": 1001,
+                "sea_level": 1001,
+                "grnd_level": 989,
+                "humidity": 74
+            },
+            "wind": {
+                "speed": 5.44,
+                "deg": 231
+            },
+            "rain": {
+                "1h": 1.23
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 501,
+                    "main": "Rain",
+                    "description": "moderate rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 487495,
+            "dt": 1589893750,
+            "name": "Sterlitamak",
+            "coord": {
+                "Lon": 55.95,
+                "Lat": 53.62
+            },
+            "main": {
+                "temp": 15.08,
+                "feels_like": 11.54,
+                "temp_min": 15.08,
+                "temp_max": 15.08,
+                "pressure": 1001,
+                "sea_level": 1001,
+                "grnd_level": 985,
+                "humidity": 66
+            },
+            "wind": {
+                "speed": 4.66,
+                "deg": 180
+            },
+            "rain": {
+                "1h": 0.85
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 507624,
+            "dt": 1589893750,
+            "name": "Pokhvistnevo",
+            "coord": {
+                "Lon": 52.13,
+                "Lat": 53.65
+            },
+            "main": {
+                "temp": 12.57,
+                "feels_like": 8.38,
+                "temp_min": 12.57,
+                "temp_max": 12.57,
+                "pressure": 1001,
+                "sea_level": 1001,
+                "grnd_level": 993,
+                "humidity": 80
+            },
+            "wind": {
+                "speed": 5.76,
+                "deg": 264
+            },
+            "rain": {
+                "1h": 0.98
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        },
+        {
+            "id": 505014,
+            "dt": 1589893750,
+            "name": "Priyutovo",
+            "coord": {
+                "Lon": 53.93,
+                "Lat": 53.9
+            },
+            "main": {
+                "temp": 13.9,
+                "feels_like": 9.03,
+                "temp_min": 13.9,
+                "temp_max": 13.9,
+                "pressure": 1000,
+                "sea_level": 1000,
+                "grnd_level": 966,
+                "humidity": 62
+            },
+            "wind": {
+                "speed": 5.88,
+                "deg": 175
+            },
+            "rain": {
+                "1h": 0.56
+            },
+            "snow": null,
+            "clouds": {
+                "today": 100
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ]
+        }
+    ]
+}
